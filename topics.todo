@@ -12,39 +12,41 @@ Getting started:
   password: code4love
   
 Part 1: Thinking in a functional style:
--imperative
--declarative
--higher-order functions
--functional == declarative + higher-order functional
--thinking declaratively, as a series of transformations
--Just like the contains function, look for (higher-order) functions that abstract operations
--let's refactor some code
- -Please look at the readme.txt file under code/part1/lab
--review and discussions
+✔imperative
+✔declarative
+✔higher-order functions
+✔functional == declarative + higher-order functional
+✔thinking declaratively, as a series of transformations
+✔Just like the contains function, look for (higher-order) functions that abstract operations
+✔let's refactor some code
+ ✔Please look at the readme.txt file 
+   under code/part1/lab
+✔review and discussions
 
 Part 2:Exploring functional APIs:
--functional composition
--filter
--map
--reduce
--collect
--Collector's helpers in Collectors
--functional style == functional composition
--functional programming == functional composition + lazy evaluation
--let's refactor some code
+✔functional composition
+✔filter
+✔map
+✔reduce
+✔collect
+✔Collector's helpers in Collectors
+✔functional style == functional composition
+✔functional programming == functional composition + lazy evaluation
+✔let's refactor some code
 -review and discussions
 
 Part 3:Complex higher-order functions:
--Digging into Collectors further
--recursive nature
--let's refactor some code
--review and discussions
+✔Digging into Collectors further
+✔recursive nature
+✔let's refactor some code
+✔review and discussions
 
 Part 4:map versus flatMap:
--map
--one to one functions
--one to many functions
--flatten in other languages
--map and flatten
--let's refactor some code
--review and discussions
+✔lambdas vs. closures
+✔map
+✔one to one functions
+✔one to many functions
+✔flatten in other languages
+✔map and flatten
+✔let's refactor some code
+✔review and discussions
