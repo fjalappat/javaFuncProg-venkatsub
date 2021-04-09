@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/code/part1/examples/examples.iml" filepath="$PROJECT_DIR$/code/part1/examples/examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/part4/examples/examples1.iml" filepath="$PROJECT_DIR$/code/part4/examples/examples1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/part3/examples/examples2.iml" filepath="$PROJECT_DIR$/code/part3/examples/examples2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/javaFuncProg-venkatsub.iml" filepath="$PROJECT_DIR$/.idea/javaFuncProg-venkatsub.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/part1/lab/lab.iml" filepath="$PROJECT_DIR$/code/part1/lab/lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/part2/lab/lab1.iml" filepath="$PROJECT_DIR$/code/part2/lab/lab1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/part3/lab/lab2.iml" filepath="$PROJECT_DIR$/code/part3/lab/lab2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/part4/lab/lab3.iml" filepath="$PROJECT_DIR$/code/part4/lab/lab3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/part1/labsolution/labsolution.iml" filepath="$PROJECT_DIR$/code/part1/labsolution/labsolution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/part4/labsolution/labsolution1.iml" filepath="$PROJECT_DIR$/code/part4/labsolution/labsolution1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/part2/labsolution/labsolution2.iml" filepath="$PROJECT_DIR$/code/part2/labsolution/labsolution2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/part3/labsolution/labsolution3.iml" filepath="$PROJECT_DIR$/code/part3/labsolution/labsolution3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/part0/part0.iml" filepath="$PROJECT_DIR$/code/part0/part0.iml" />
+    </modules>
+  </component>
+</project>

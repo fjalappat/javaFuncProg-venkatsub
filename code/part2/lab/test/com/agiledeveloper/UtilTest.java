@@ -1,6 +1,6 @@
 package com.agiledeveloper;
 
-import org.junit.jupiter.api.Test;
+import org.testng.annotations.Test;
 
 import java.util.*;
 
